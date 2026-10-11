@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Agent & Workflow tools
+.agent/
+.agents/
+.gemini/
+.gsd/
+adapters/
+scripts/
+VERSION
+model_capabilities.yaml
+Level2-assignment.pdf
